@@ -16,6 +16,7 @@
         <module>hw3-1</module>
         <module>hw3-2and3</module>
         <module>hw4-3</module>
+        <module>finalExamExercise4</module>
     </modules>
 
     <dependencyManagement>
